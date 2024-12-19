@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import matplotlib.pyplot as plt
+from PIL import Image
 
 st.set_page_config(
     page_title="Paracicos",
@@ -316,7 +317,7 @@ def main():
     marcador_com_cor()
     mostra_df(df_filtered)  # Exibir o DataFrame filtrado
     exibir_mapas(df_filtered)  # Passar o DataFrame filtrado para o mapa e encerrar
-    
+
 
 
 

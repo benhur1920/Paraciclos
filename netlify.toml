@@ -1,0 +1,3 @@
+[build]
+  command = "streamlit run main.py"  # Comando para rodar o Streamlit
+  publish = "/"  # A pasta onde o site será publicado
