@@ -40,7 +40,7 @@ def carregar_titulo(mensagem):
         titulo("Paraciclos")
         subheader('Prefeitura do Recife - Dados Abertos')
     with col2:
-        st.image('paraciclos.png', width=250)  # Caminho relativo ajustado
+        st.image('Paraciclos.png', width=250)  # Caminho relativo ajustado
     # URL do link
     link_url = "http://dados.recife.pe.gov.br/dataset/paraciclos-do-recife"
 
