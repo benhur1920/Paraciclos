@@ -1,0 +1,454 @@
+ano_implantacao;referencia;nome;bairro;local;rpa;quantidade;vagas;latitude;longitude 
+2021;P001;Praça do Arsenal;Recife;Rua do Bom Jesus, oposto a Praça do Arsenal, esquina com Rua Barão Rodrigues Mendes;1;1;2;-8.06135; -34.87105 
+2021;P002;Avenida Rio Branco;Recife;Av. Rio Branco, s/n - Recife;1;5;10;-8.06266; -34.87274 
+2021;P003;Praça da Independência;Santo Antônio;Av Dantas Barreto, na Praça da Independência, oposto a Igreja Santo Antônio;1;5;10;-8.06423; -34.87839 
+2021;P004;Praça Joaquim Nabuco;Santo Antônio;Praça Joaquim Nabuco em frente a Av Floriano Peixoto;1;3;6;-8.06447; -34.88135 
+2021;P005;Praça Visconde de Mauá;Santo Antônio;Tv. do Cais da Detenção, s/n - Santo Antônio;1;2;4;-8.06672; -34.88286 
+2021;P006;Praça Visconde de Mauá;Santo Antônio;Praça Visc. de Mauá, s/n - Santo Antônio;1;1;2;-8.05618; -34.87823 
+2021;P007;Parque Treze de Maio;Boa Vista;Rua da Saudade, oposto ao número 374 e em frente ao Parque Treze de Maio / esquina com Rua Princesa Isabel;1;1;2;-8.05856; -34.88108 
+2021;P008;Cinema São Luiz;Boa Vista;Rua Dr. Sebastião Lins, s/n - Boa Vista;1;1;2;-8.06229; -34.88204 
+2021;P009;Igreja da Santa Cruz;Boa Vista;Rua da Santa Cruz, s/n - Boa Vista ;1;1;2;-8.06232; -34.88808 
+2021;P010;Praça Miguel de Cervantes;Ilha do Leite;Rua Praça Dr Fernando Figueira em frente à Praça Miguel de Cervantes;1;2;4;-8.06532; -34.89368 
+2021;P011;Mercado da Encruzilhada;Encruzilhada;Rua Dr. José Maria, s/n - Encruzilhada;2;4;8;-8.03739; -34.89238 
+2021;P012;Rua Dona Ana Xavier;Casa Amarela;Rua Dona Ana Xavier, 147 - Casa Amarela;3;1;2;-8.02707; -34.91757 
+2021;P013;Mercado de Casa Amarela;Casa Amarela;Rua Padre Lemos, s/n - Casa Amarela;3;4;8;-8.02646; -34.91786 
+2021;P014;Largo de Casa Amarela ;Casa Amarela;Largo de Casa Amarela, s/n - Casa Amarela ;3;2;4;-8.02651; -34.91867 
+2021;P015;Mercado da Madalena;Madalena;Rua Real da Torre, s/n - Madalena;4;4;8;-8.05237; -34.90885 
+2021;P016;Praça Eça de Queiroz;Madalena;R. Des. Luís Salazar/ Esquina com Av. Visc. de Albuquerque;1;1;2;-8.0509; -34.90665 
+2021;P017;Escola Waldemar de Oliveira ;Santo Amaro ;Avenida Mario Melo, s/n - Santo Amaro;1;2;4;-8.05496; -34.88021 
+2021;P018;Calçada Dom Vital ;São José;Praça Dom Vital, s/n (calçada) - São José ;1;4;8;-8.0679; -34.87812 
+2021;P019;Avenida Beberibe;Água Fria ;Avenida Beberibe, 2047 - Água Fria (ponto separados ao longo da via);2;4;8;-8.0193; -34.89408 
+2021;P020;Orla de Brasília Teimosa;Brasilia Teimosa;Avenida Brasília Formosa, 1078 - Brasília Teimosa;6;2;4;-8.08102; -34.87676 
+2021;P021;Escola Municipal Arraial Novo do Bom Jesus ;Cordeiro ;Estr. do Forte do Arraial Novo do Bom Jesus, 1340 - Cordeiro;4;2;4;-8.05895; -34.93158 
+2021;P022;Praça da Várzea;Várzea;Av. Afonso Olindense x Praça Pinto Dâmaso;6;4;8;-8.04876; -34.95968 
+2021;P023;Mercado de Afogados ;Afogados ;Estrada dos Remédios, 162 - Afogados ;5;5;10;-8.07822; -34.90691 
+2021;P024;Praça Mauriceia;Ipsep;Rua Araçatuba, na Praça Mauricéia;2;4;8;-8.10809; -34.9165 
+2021;P025;Mercado da Boa Vista;Boa Vista ;Rua da Santa Cruz, 136 - Boa Vista ;1;2;4;-8.06316; -34.88863 
+2021;P026;Praça da Convenção ;Beberibe;Rua Uriel de Holanda, s/n - Beberibe;2;5;10;-8.00266; -34.89772 
+2021;P027;Praça Noel Rodrigues;San Martin;Praça Noel Rodrigues. Rua Gui Bastos Júnior/ esquina com Rua Comendador Franco Ferreira;1;3;6;-8.06679; -34.92732 
+2021;P028;Pátio do Carmo;Santo Antônio;Av. Dantas Barreto esquina com Rua São Pedro;1;2;4;-8.06643; -34.87938 
+2021;P029;Rua da Palma;Santo Antônio;Rua Matias de Albuquerque com Rua da Palma;1;1;2;-8.0636; -34.88021 
+2021;P030;Orla de Boa Viagem - Quadras;Boa Viagem;Avenida Boa Viagem, 956, Orla de Boa Viagem - próximo das quadras de tênis;6;4;8;-8.10014; -34.88453 
+2021;P031;Parque Dona Lindú 01;Boa Viagem;Parque Dona Lindú 01 -proximo a pista de skate;6;5;10;-8.14095; -34.90398 
+2021;P032;Parque Dona Lindú 02;Boa Viagem;Parque Dona Lindú 02 - Rua Setubal;6;2;4;-8.14209; -34.90449 
+2021;P033;Orla do Pina - JCPM;Pina;Orla do Pina - Próximo ao JCPM - Av. Antonio de Góes;6;4;8;-8.09084; -34.88174 
+2021;P034;Orla do Pina 01;Pina;Orla do Pina - Próximo a rua Ondina;6;4;8;-8.09421; -34.88259 
+2021;P035;Orla do Pina 02;Pina;Orla do Pina - Próximo a pista de Skate - Na frente do Lote 674;6;4;8;-8.09761; -34.88343 
+2021;P036;Orla de Boa Viagem - 2º Jardim;Boa Viagem;Orla de Boa Viagem - 2º Jardim;6;4;8;-8.10526; -34.88729 
+2021;P037;Orla de Boa Viagem - Parque Dona Lindu;Boa Viagem;Orla de Boa Viagem, na frente do Parque Dona LIndu;6;4;8;-8.14224; -34.90363 
+2021;P038;Orla de Boa Viagem - R. Bruno Veloso;Boa Viagem;Orla de Boa Viagem - Próximo a rua Bruno Veloso;6;4;8;-8.12202; -34.89596 
+2021;P039;Orla de Boa Viagem - EDF. ACAIACA;Boa Viagem;Orla de Boa Viagem - Próximo a rua Felix da Brito e Melo;6;4;8;-8.11863; -34.89409 
+2021;P040;Orla de Boa Viagem - Padaria Boa Viagem;Boa Viagem;Orla de Boa Viagem - Próximo a rua Pe Bernadino Pessoa;6;4;8;-8.11539; -34.89212 
+2021;P041;Mercado de Água Fria / Beberibe;Água Fria;Na entrada do Mercado de Água Fria / Beberibe;2;13;26;-8.01988; -34.89453 
+2021;P042;Mercado do Cordeiro;Cordeiro;Na entrada do Mercado do Cordeiro;4;14;28;-8.0517; -34.92125 
+2021;P043;Parque Caiara;Iputinga;Na entrada do Parque Caiara;4;17;17;-8.03861; -34.92838 
+2021;P044;Policlínica Professor Waldemar de Oliveira;Santo Amaro;Policlínica Professor Waldemar de Oliveira;1;8;16;-8.07097; -34.88157 
+2021;P045;Praça Vidal Negreiros;São José;Praça Vidal Negreiros;1;5;10;-8.05888; -34.87245 
+2021;P046;Praça Tiradentes 01;Recife;Praça Tiradentes - na Tv. Tiradentes próximo ao Cais do apolo;1;10;20;-8.05907; -34.8718 
+2021;P046;Praça Tiradentes 02;Recife;Praça Tiradentes - Rua do Brum;1;10;20;-8.05907; -34.8718 
+2021;P047;Cais Alfândega;Recife;Cais Alfândega - Acesso do shopping em frente aRua da livraria Jaqueira ;1;5;10;-8.06514; -34.87412 
+2021;P048;Paço Alfândega;Recife;Paço Alfândega;1;6;12;-8.06516; -34.87361 
+2021;P049;Rua da Guia;Recife;Rua da Guia;1;6;12;-8.06173; -34.87191 
+2021;P050;Rua do Bom Jesus;Recife;Rua do Bom Jesus;1;5;10;-8.06163; -34.87114 
+2021;P051;Rua Domingos José Martins;Recife;Rua Domingos José Martins;1;6;12;-8.06179; -34.87161 
+2021;P052;Rua do Observatório;Recife;Rua do Observatório;1;8;16;-8.06051; -34.87209 
+2021;P053;Rua Senador José Henrique;Ilha do Leite;Rua Senador José Henrique;1;3;6;-8.06515; -34.89595 
+2021;P054;Orla de Boa Viagem - Barão de Souza Leão;Boa Viagem;Avenida Boa Viagem, 4988 - Próximo a pracinha de Boa Viagem;3;4;8;-8.13286; -34.90016 
+2021;P055;Rua Gen. José Semeão;Boa Vista;Rua do Lazer;1;5;10;-8.05523; -34.88657 
+2021;P056;Mercado Madalena;Madalena;Mercado Madalena;4;5;10;-8.05256; -34.90887 
+2021;P057;Senai;Santo Amaro;Senai - Na Av. Norte Miguel Arraes;1;26;52;-8.04695; -34.8779 
+2021;P058;Av. Beira Rio;Graças;Av. Beira Rio;4;5;10;-8.04672; -34.90416 
+2021;P059;Palácio do Governo do Recife;Santo Antônio;Praça da República, S/N;1;3;6;-8.06042; -34.87722 
+2021;P060;Parque 13 de Maio;Boa Vista;Parque 13 de Maio;1;5;10;-8.05649; -34.88254 
+2021;P061;Avenida Conde da Boa Vista;Boa Vista;Avenida Conde da Boa Vista - próximo a rua da aurora;1;6;12;-8.06186; -34.88175 
+2021;P062;Avenida Conde da Boa Vista;Boa Vista;Avenida Conde da Boa Vista - próximo a rua da saudade;1;6;12;-8.06133; -34.88288 
+2021;P063;Shopping Boa Vista;Boa Vista;Shopping Boa Vista - na avenida conde da boa vista;1;6;12;-8.05914; -34.88741 
+2021;P064;URB;Boa Vista;URB - na avenida conde da boa vista;1;6;12;-8.05839; -34.88861 
+2021;P065;Fafire;Boa Vista;Fafire - na avenida conde da boa vista;1;6;12;-8.05801; -34.88937 
+2021;P066;ABRE;Boa Vista;ABRE - na avenida conde da boa vista;1;6;12;-8.05659; -34.89244 
+2021;P067;Parque da Macaxeira;Macaxeira;Parque da Macaxeira;3;34;34;-8.01563; -34.9324 
+2021;P068;Sítio da Trindade;Casa Amarela;Sítio da Trindade;3;5;10;-8.02852; -34.91169 
+2021;P069;Parque Santana;Santana;Parque Santana, próximo a entrada;3;26;26;-8.04105; -34.91729 
+2021;P070;Praça Barão de Caiara;Santana;Praça Barão de Caiara;3;11;11;-8.03877; -34.91145 
+2021;P071;Compaz Governador Eduardo Campos;Linha do Tiro;Compaz Governador Eduardo Campos;2;10;10;-8.01043; -34.90274 
+2021;P072;Parque da Jaqueira;Jaqueira;Parque da Jaqueira;3;2;4;-8.03671; -34.90451 
+2021;P073;Parque da Jaqueira Academia Recife;Jaqueira;Parque da Jaqueira Academia Recife;3;5;10;-8.03744; -34.90579 
+2021;P074;Mercado da Encruzilhada;Encruzilhada;Mercado da Encruzilhada;2;2;4;-8.03722; -34.89214 
+2021;P075;Jardim Botânico do Recife;Curado;Jardim Botânico do Recife;1;9;18;-8.07603; -34.96668 
+2021;P076;Academia Recife - Praça do ABC;Mustardinha;Rua Jose Bezerra Cavalcante, 44 ;5;4;8;-8.07307; -34.91878 
+2021;P077;TI Getúlio Vargas 01;Cordeiro;TI Getúlio Vargas;4;4;8;-8.05051; -34.92119 
+2021;P078;Rua da Aurora;Santo Amaro;Rua da Aurora;1;10;20;-8.0553; -34.87718 
+2021;P079;Lagoa do Araçá;Imbiribeira;Lagoa do Araçá - proximo a Rua Dr Emilio Ribas;6;5;10;-8.09228; -34.91353 
+2021;P080;COMPAZ Escritor Ariano Suassuna;Cordeiro;COMPAZ Escritor Ariano Suassuna;4;2;4;-8.05996; -34.92586 
+2021;P081;Praça Sérgio Lorêto;São José;Praça Sérgio Lorêto;1;5;10;-8.07321; -34.88497 
+2021;P082;Prefeitura 1;Recife;Prefeitura 1;1;10;20;-8.05383; -34.87265 
+2021;P083;Prefeitura 2;Recife;Prefeitura 2;1;10;20;-8.05463; -34.87239 
+2021;P084;Centro Esportivo Santos Dumont;Boa Viagem;Centro Esportivo Santos Dumont;6;5;10;-8.13101; -34.90855 
+2021;P085;Fórum Desembargador Rodolfo Aureliano;Joana Bezerra;Fórum Desembargador Rodolfo Aureliano;1;10;20;-8.07109; -34.89438 
+2021;P086;Cais do Imperador;Santo Antônio;Cais do Imperador;1;7;14;-8.06516; -34.87617 
+2021;P087;Mamede Simões;Santo Amaro;Rua Mamede Simões, 144;1;7;14;-8.05782; -34.88012 
+2021;P088;Parque 13 de Maio;Boa Vista;Parque 13 de Maio;1;8;8;-8.05672; -34.88196 
+2021;P089;Sede CTTU;Santo Amaro;Av. Cruz Cabugá, 301 - Santo Amaro;1;5;10;-8.05152; -34.87976 
+2022;P090;Redesenho - Rua das Oficinas;Pina;Rua das Oficinas - Na frente da escola ;6;3;6;-8.0848; -34.88406 
+2021;P091;EREM João Bezerra;Brasília Teimosa; Rua Francisco Valpassos, s/n - Brasília Teimosa;6;10;20;-8.08599; -34.88287 
+2021;P092;Praça de Jardim São Paulo 01;Jardim São Paulo;Praça de Jardim São Paulo, Próximo a Delegacia;5;5;10;-8.08165; -34.93874 
+2021;P093;Praça do Engenho do Meio;Engenho do meio;R. Antônio Curado, na entrada da Praça;4;5;10;-8.05737; -34.94213 
+2021;P094;Academia da Cidade de Campo Grande;Campo Grande;Avenida Agamenon Magalhães, Academia da Cidade de Campo Grande;2;4;8;-8.03778; -34.87584 
+2021;P095;Praça do Rosarinho;Rosarinho;Av. Norte Miguel Arraes de Alencar, localizado na entrada da Praça;2;5;10;-8.03307; -34.89663 
+2021;P096;Praça do Derby;Derby;Praça do Derby, no lado oposto aos lotes 109 e 85 ;3;5;10;-8.05593; -34.8992 
+2022;P097;Soledade;Soledade;R. da Soledade, ao lado da estação TeamBici PE;1;5;10;-8.05797; -34.88988 
+2021;P098;Upinha CHIÉ;Santo Amaro;Avenida Agamenon Magalhães, Pista local;1;5;10;-8.03729; -34.87419 
+2022;P099;AVENIDA GUARARAPES 01 (Canteiro);Santo Antônio;Avenida Guararapes, no canteiro, do lado oposto aos correios;1;3;6;-8.06269; -34.88023 
+2022;P099;AVENIDA GUARARAPES 02 (Correios);Santo Antônio;Avenida Guararapes, no canteiro em frente aos correios correios;1;2;4;-8.06269; -34.88023 
+2022;P100;AVENIDA GUARARAPES 03 (Canteiro);Santo Antônio;Avenida Guararapes, no canteiro em frente ao Edifício Trianon - Uninassau/SerEducacional;1;5;10;-8.06284; -34.88021 
+2022;P101;Teatro do Parque 01;Boa Vista;Rua do Hospício – Boa Vista;1;3;6;-8.06208; -34.88472 
+2022;P101;Teatro do Parque 02;Boa Vista;Rua do Hospicio - Boa Vista;1;2;4;-8.06208; -34.88472 
+2022;P102;UPE/Reitoria;Santo Amaro;Avenida Gov. Agamenon Magalhães;1;5;10;-8.04364; -34.88637 
+2022;P103;Praça de Parnamirim;Parnamirim;Praça Dr. Lula Cabral de Melo, 448;3;5;10;-8.03323; -34.91013 
+2022;P104;Canal do Cavouco 01 ;Iputinga;Rua Prof. Coelho de Almeida, 65 ;4;5;10;-8.04531; -34.93158 
+2022;P105;Praça da Torre;Torre;Praça Professor Barreto Campelo;4;5;10;-8.04648; -34.91374 
+2022;P106;Parque da Macaxeira ;Macaxeira;Avenida Norte - Dentro do parque, próximo a Academia Recife;3;5;10;-8.01648; -34.93218 
+2022;P107;Pátio Santa Cruz ;Boa Vista;Rua Velha, em frente a Igreja de Santa Cruz;1;5;10;-8.06218; -34.88799 
+2022;P108;Praça do Hipódromo/Academia Recife;Hipódromo;Rua Fonseca Oliveira - Praça do Hipódromo;2;5;10;-8.03196; -34.88695 
+2022;P109;USF Alto do Capitão/ Academia da Cidade 01 ;Dois Unidos;Rua do Campo, 79;2;3;6;-7.99989; -34.91407 
+2022;P109;USF Alto do Capitão/ Academia da Cidade 02 ;Dois Unidos;Rua Tupiraçaba, 1368;2;2;4;-7.99989; -34.91407 
+2023;P110;Academia Recife - Polo Santo Amaro;Santo Amaro;Avenida Governador Agamenon Magalhães, 20 - Santo Amaro;1;5;10;-8.04454; -34.88805 
+2022;P111;Academia da Cidade - Polo Santo Amaro;Santo Amaro;Avenida Governador Agamenon Magalhães, 1286 - 90A na frente da Assembléia de Deus ;1;5;10;-8.03952; -34.87756 
+2022;P112;Academia Recife e da Cidade - Polo Coque ;Joana Bezerra;Rua Água Doce, Próximo a academia Recife;1;5;10;-8.06989; -34.89705 
+2022;P113;Rua da Palma 02;Santo Antônio;Rua da Palma;1;2;4;-8.06406; -34.88034 
+2023;P114;Academia Recife - Polo Água Fria ;Porto da Madeira;Rua Arão Bloter, 90 ;2;5;10;-8.00941; -34.88892 
+2022;P115;Academia Recife - Polo Casa Amarela 01;Casa Amarela;Rua Marino de Melo Berenguer, 5673;3;3;6;-8.02215; -34.91583 
+2022;P115;Academia Recife - Polo Casa Amarela 02;Casa Amarela;Rua Marino de Melo Berenguer, 5673;3;2;4;-8.02215; -34.91583 
+2022;P116;Academia da Cidade - Polo Cajueiro;Campina do Barreto;Rua Coronel Urbano Ribeiro de Sena, 900;2;2;4;-8.01394; -34.8831 
+2022;P116;Academia da Cidade - Polo Cajueiro;Campina do Barreto;Rua Coronel Urbano Ribeiro de Sena, 900;2;3;6;-8.01394; -34.8831 
+2022;P117;Praça do ABC 01;Mustardinha;Avenida Manoel Gonçalvez da Luz, 821;5;2;4;-8.07331; -34.91862 
+2022;P117;Praça do ABC 02;Mustardinha;Avenida Manoel Gonçalvez da Luz, 821;5;3;6;-8.07331; -34.91862 
+2022;P118;Academia Recife - Polo Barro;Barro;Rua Otacílio Pessoa, 97 ;5;5;10;-8.08944; -34.94037 
+2022;P119;Academia da Cidade Polo Roda de Fogo ;Torrões;Rua Pedro Sá, 105;4;5;10;-8.0579; -34.93716 
+2022;P120;Academia Recife - Polo Lagoa do Araçá;Imbiribeira;Rua Nova Verona, N. 87;6;3;6;-8.09643; -34.91544 
+2023;P120;Academia Recife - Polo Lagoa do Araçá;Imbiribeira;Rua José Nogueira, N. 20;6;2;4;-8.09643; -34.91544 
+2023;P121;Largo da Encruzilhada;Encruzilhada;Praça Largo da Encruzilhada, 59;3;5;10;-8.03741; -34.89152 
+2023;P122;Geraldão;Imbiribeira;Entrada principal do Geraldão 02 - sentido cidade;6;3;6;-8.11676; -34.91295 
+2022;P122;Geraldão;Imbiribeira;Entrada principal do Geraldão 01 - sentido cidade;6;3;6;-8.11676; -34.91295 
+2022;P123;Academia Recife - Polo Engenho do Meio;Engenho do meio;Rua Manuel Alves Deus Dara, 315;4;5;10;-8.05791; -34.94337 
+2023;P124;IFPE;Curado;Avenida Professor Luiz Freire, 500 - Próximo a entrada do IFPE;4;5;10;-8.05869; -34.94938 
+2022;P125;Academia da Cidade Polo Praça do Poeta;Iputinga;"Avenida Caxangá – Próximo ao Caxangá
+Golfe Clube";4;5;10;-8.03447; -34.95031 
+2022;P126;Antônio Falcão;Boa Viagem;Avenida Boa Viagem, 3080;6;4;8;-8.11687; -34.89299 
+2022;P127;Praça Doutor Fernando Figueira;Ilha do Leite;Praça Dr. Fernando Figueira, lado oposto do empresarial Cervantes, 30;1;5;10;-8.06517; -34.89337 
+2023;P128;Praça de San Martin;San Martin;Dentro da Praça de San Martin;5;5;10;-8.07086; -34.92875 
+2022;P129;Praça do Trabalho;Casa Amarela;Praça do Trabalho, 33;3;5;10;-8.02317; -34.91453 
+2022;P130;Praça Melvin Jones;Parnamirim;Rua Padre Roma;3;5;10;-8.03292; -34.90725 
+2022;P131;Frei Cassimiro 01;Santo Amaro;Rua Frei Cassimiro - próximo a praça Márcio Alves;1;5;10;-8.04607; -34.88103 
+2023;P132;Encruzilhada / Av. Norte;Encruzilhada;Avenida Beberibe, próximo ao Banco Bradesco da Encruzilhada;2;5;10;-8.03834; -34.89196 
+2022;P133;Morro da Conceição;Morro da Conceição; Rua do Morro da Conceição, 361;3;5;10;-8.01951; -34.91505 
+2022;P134;Joana Bezerra ;Joana Bezerra;Na frente da Usf - São José do Coque ;1;5;10;-8.07297; -34.89613 
+2022;P135;Academia da Cidade - Polo San Martin;San Martin;Av. General San Martin - Praça Noel Rodrigues;2;5;10;-8.06702; -34.92762 
+2022;P136;Rua da Saudade;Santo Amaro;Rua da Saudade, próximo a Rua Mamede Simões;1;5;10;-8.05736; -34.88041 
+2022;P137;Sudene / Lindolfo Color;Cidade Universitária;R. Lindolfo Color, S/N ;4;4;8;-8.05141; -34.94492 
+2023;P138;Colégio Apoio Recife;Casa Amarela;Rua Jouberte de Carvalho, Próximo a entrada do agua Viva Club;3;5;10;-8.0299; -34.91376 
+2021;P139;Escola Municipal Engenheiro Umberto Gondim;Pina;R. das Oficinas, 13 - Pina, Recife;6;5;10;-8.08477; -34.88401 
+2022;P140;Academia da Cidade Polo Lagoa do Araçá;Imbiribeira;Avenida José Ferreira Lins, 425;6;5;10;-8.09605; -34.9139 
+2023;P141;Creche Municipal Menino Jesus da Bomba Grande;Cordeiro; Rua Nossa Senhora da Saúde, 669;4;5;10;-8.04181; -34.92789 
+2023;P142;Rua do Futuro;Jaqueira;Rua do Futuro - (redesenho);3;3;6;-8.03625; -34.90384 
+2022;P142;Rua do Futuro;Jaqueira;Rua do Futuro - Lado esquerdo da entrada;3;2;4;-8.03625; -34.90384 
+2022;P143;Parque Arraial Novo do Bom Jesus;Torrões;Estr. do Forte do Arraial Novo do Bom Jesus 1277;4;5;10;-8.05721; -34.93079 
+2023;P144;Campo do Quinze;Torrões;Estr. do Forte do Arraial Novo do Bom Jesus 1133;4;5;10;-8.05829; -34.93132 
+2023;P145;Academia da Cidade Polo Vila Um Por Todos;Vasco da Gama;Rua Vila Um Pôr Todos - Próximo a academia da cidade e da quadra ;3;3;6;-8.01033; -34.92239 
+2022;P145;Academia da Cidade Polo Vila Um Por Todos;Vasco da Gama;Rua Vila Um Pôr Todos - Próximo as mesa/ playground;3;2;4;-8.01033; -34.92239 
+2022;P146;Aurora 01;Boa Vista;Rua da Aurora Proximo a Rua Mamede Simões;1;5;10;-8.05854; -34.87922 
+2022;P147; Academia Recife - Polo IPSEP;Ipsep;Rua Dr. Rui Lima Cavalcante 109;6;5;10;-8.11674; -34.9189 
+2023;P148;Academia da Cidade Polo Lavadeiras 01; Areias;Rua Goiânia,  26 ;5;3;6;-8.09402; -34.93711 
+2023;P148;Academia da Cidade Polo Lavadeiras 02; Areias;Rua Palmares, 47;5;2;4;-8.09402; -34.93711 
+2023;P149;Largo Dom Luiz;Vasco da Gama;Largo Dom Luiz,320 ;3;5;10;-8.02077; -34.91729 
+2023;P150;Sítio da Trindade;Casa Amarela;Estrada do Arraial - Dentro do Sitio da Trindade próximo a Academia da Cidade e Atras do chalé Trindade Peretti;3;5;10;-8.02903; -34.91212 
+2024;P151;Instituto Capibaribe;Graças;Rua das Graças, 30 - lado oposto ao instituto Capibaribe;3;5;10;-8.05032; -34.90177 
+2022;P152;Praça Santos Dumont;Ponto de Parada;Praça Santos Dumont - R. José Alexandre Caçador;2;5;10;-8.03056; -34.89481 
+2023;P153;Praça Jarbas Pernambucano;Cajueiro;Avenida Sebastião Salazar, 604;2;5;10;-8.011; -34.88365 
+2023;P154;Lagoa do Araçá;Imbiribeira;Rua Eng. José Brandão Cavalcante, 816 - Próximo a Santa;6;5;10;-8.09278; -34.91619 
+2023;P155;PROCAPE;Santo Amaro;Rua doa Palmares - em frente ao PROCAPE;1;5;10;-8.04956; -34.88758 
+2023;P156;Academia da Cidade Polo Praça do Salgueiro;Iputinga;Praça do Salgueiro, lado oposto do lote nº 90;4;3;6;-8.04236; -34.93807 
+2023;P156;Academia da Cidade Polo Praça do Salgueiro;Iputinga;Praça do Salgueiro, lado oposto do lote nº 38;4;2;4;-8.04236; -34.93807 
+2023;P157;Rua do Livramento;Santo Antônio;Rua do Livramento, 64  - próximo a Loja Tropical.;1;5;10;-8.06659; -34.87772 
+2023;P158;Praça do Sebo;Santo Antônio;Próximo a Praça do sebo;1;5;10;-8.063; -34.87881 
+2023;P159;Praça Mago Jefferson ;Campina do Barreto;Rua Dr. Elias Gomes 43 ;2;5;10;-8.02106; -34.87954 
+2023;P160;Praça Capiba - Cajueiro;Cajueiro;Rua Manoel Brandão;2;5;10;-8.00898; -34.88523 
+2023;P161;Praça Onildo Almeida ;Campina do Barreto; Av. Poe. Vinícius de Morais, 349;2;5;10;-8.01855; -34.87942 
+2023;P162;Largo da Paz;Afogados;Praça da Paz, nº 68;5;5;10;-8.08061; -34.9063 
+2023;P163;Orla de Brasília Teimosa 01;Brasília Teimosa;Av. Brasilia Formosa - Lado oposto ao numero 137;6;5;10;-8.08299; -34.87746 
+2023;P164;Orla de Brasília Teimosa 02;Brasília Teimosa;Av. Brasilia Formosa - Próximo ao Quiosque do Cabo e Bar do Peixe;6;5;10;-8.0878; -34.87913 
+2023;P165;Orla de Brasília Teimosa 03;Brasília Teimosa;Av. Brasilia Formosa - Lado oposto Quiosque do Seu Jorge;6;5;10;-8.08489; -34.87801 
+2023;P166;Praça Caxito (san martin);San Martin;Rua Farroupilha 502;5;5;10;-8.07517; -34.93149 
+2023;P167;Prefeitura do Recife;Recife;Cais do Apolo, na frente da prefeitura do Recife;1;5;10;-8.05439; -34.87201 
+2023;P168;Praça Jacarezinho;Campina do Barreto;Rua Rifaina 3 - Na frente do mercadinho R.E ;2;3;6;-8.01842; -34.88293 
+2023;P169;Academia Recife - Polo praça da Várzea;Várzea;Praça da Varzea;4;5;10;-8.04944; -34.95959 
+2023;P170;Praça Jordão Alto;Jordão;Praça Pres. Kenedy 45 ;6;5;10;-8.13429; -34.94147 
+2023;P171;Academia da Cidade Polo Jordão;Jordão;Av. Gov. Roberto Silveira 20 -Atrás do Núcleo da Polícia Militar Jordão Baixo;6;3;6;-8.13646; -34.93686 
+2023;P171;Academia da Cidade Polo Jordão;Jordão;Av. Doná Carentina;6;2;4;-8.13646; -34.93686 
+2023;P172;COMPAZ Dom Helder Câmara;São José;Avenida Central, 92 - Próximo a entrada do prédio.;1;5;10;-8.0736; -34.89538 
+2023;P173;COMPAZ Dom Helder Câmara;São José;Avenida Central, 92 - Próximo a entrada de veículos;1;5;10;-8.07351; -34.89551 
+2022;P174;SESC de Santo Amaro;Santo Amaro;Praça do Campo Santo - R. do Pombal, perto do Sesc de Santo Amaro;1;5;10;-8.04941; -34.88267 
+2022;P175;Academia da Cidade Polo Heróis da Restauração; Areias;Rua Cajá, 47;5;5;10;-8.09717; -34.93571 
+2023;P176;Terminal Engenho do Meio;Engenho do meio;Rua Valdemar Falcão, lado oposto ao lote nº 610;4;5;10;-8.0587; -34.94589 
+2023;P177;Creche Escola Dep. Alcides Teixeira;Santo Amaro;Av. Norte Miguel Arraes de Alencar, 1193 ;1;2;4;-8.04389; -34.8828 
+2024;P177;Creche Escola Dep. Alcides Teixeira;Santo Amaro;Av. Norte Miguel Arraes de Alencar, 1193 ;1;3;6;-8.04389; -34.8828 
+2024;P178;Vila do Vintém;Santana;Rua Afonso de Albuquerque Melo;3;2;4;-8.03802; -34.91035 
+2024;P178;Vila do Vintém;Santana;Rua Afonso de Albuquerque Melo;3;3;6;-8.03802; -34.91035 
+2024;P179;Praça Parque Amorim;Boa Vista;Pista Local da Av. Agamenon Magalhães, atrás da Parada de ônibus - Dentro da Praça;1;5;10;-8.05192; -34.89494 
+2024;P180;Praça Souto Filho;Jaqueira;Rua Hoel Sette, próximo a entrada do Parcão;3;5;10;-8.03614; -34.90295 
+2024;P181;Praça General Carlos Pinto (Tacaruna);Santo Amaro;Praça General Carlos Pinto, próximo ao shopping tacaruna;1;5;10;-8.03986; -34.87194 
+2024;P182;Praça Oswaldo Cruz;Boa Vista;Rua João Fernandes Vieira, lado oposto ao Lote nº 190;1;5;10;-8.05476; -34.89126 
+2024;P183;Estação Imbiribeira;Imbiribeira;R. Dr. Valdir Pessoa - Próximo a entrada do metrô;6;5;10;-8.09051; -34.90761 
+2024;P184;Estação Mangueira;Afogados;Avenida Central, 2562 – Mangueira;5;5;10;-8.08591; -34.93683 
+2024;P185;Estação Ipiranga;Afogados;Avenida Central, 2435 - Em frente a entrada da estação, próximo a Escola Estadual Vidal de Negreiros;5;5;10;-8.0773; -34.91345 
+2024;P186;Estação Santa Luzia;Estância;Rua Rocha Pombo – Na praça em frente a entrada da Estação;5;5;10;-8.08426; -34.92992 
+2022;P187;Praça Brasilit (Praça do Caxito - Várzea);Várzea;Rua Abatiá, S/N - Várzea;5;5;10;-8.04175; -34.95027 
+2024;P188;Praça Bom Partor;Engenho do meio;Rua Bom Pastor, lado oposto ao lote nº 1409.;4;5;10;-8.04925; -34.93978 
+2024;P189;Praça Ministro João Gonçalves de Souza;Engenho do meio;Rua Gáspar Pérez, 1011;4;5;10;-8.04795; -34.94344 
+2024;P190;Praça do Sena;Areias;Rua Capitão Antônio França, lado oposto ao lote nº113;5;5;10;-8.09594; -34.93344 
+2024;P191;Praça VDC;Areias;Rua Capitão Manuel de Aguiar;5;5;10;-8.09489; -34.93236 
+2024;P192;Centro POP;Santo Antônio;Av. Martins de Barros, 395 - Na calçada, ao lado da entrada do Centro de Referência;1;5;10;-8.06401; -34.8765 
+2024;P193;DER;Santo Amaro;Rua Leão Falcão, 337 - Na calçada do DER ;1;5;10;-8.04573; -34.87587 
+2024;P194;Escola Sizenando Silveira;Santo Amaro;Rua do Hospício,999 - próximo ao Parque Treze de Maio.;1;5;10;-8.05454; -34.88186 
+2024;P195;Mercado Público Santo Amaro;Santo Amaro;Av. Cruz Cabugá, 1933 - Ao lado da entrada principal do Mercado;1;5;10;-8.04682; -34.87655 
+2024;P196;Cais do Sertão 01;Recife;Av. Alfredo Lisboa, armazém 10 – Recife;1;5;10;-8.06124; -34.87045 
+2024;P197;Parque Treze de Maio;Boa Vista;Rua Princesa Isabel, 470 - Na entrada do Parque Treze de Maio.;1;5;10;-8.058; -34.88217 
+2024;P198;Praça 13 de Maio;Boa Vista;Rua do Hospício,671 - Praça em Frente a Câmara Municipal de Recife.;1;5;10;-8.05717; -34.88303 
+2024;P199;Praça Dezessete;Santo Antônio;Rua do Imperador Pedro II - Em frente a Igreja do Divino Espírito Santo.;1;5;10;-8.06523; -34.87688 
+2024;P200;Praça Ascenso Ferreira;Recife;Av. Rio Branco, 242 - Em frente ao Banco do Brasil.;1;5;10;-8.06248; -34.8737 
+2024;P201;Praça do Pilar;Recife;Av. Alfredo Lisboa, 1052 - Em frente ao terminal marítimo do Recife.;1;5;10;-8.0569; -34.86989 
+2024;P202;Praça Onze de Junho;Santo Amaro;Av. Pref. Artur Lima Cavalcanti, 206 - lado oposto do SEINFRA.;1;5;10;-8.04468; -34.87467 
+2024;P203;Praça Prof. Agamenon Magalhães;Santo Amaro;Av. Norte Miguel Arraes de Alencar, 1128 - em frente a Paróquia de São Sebastião.;1;5;10;-8.04374; -34.88222 
+2024;P204;Cais do Sertão 02;Recife; Av. Alfredo Lisboa, S/N - Recife;1;5;10;-8.0597; -34.86991 
+2024;P205;Rua da Moeda (Paço Alfândega);Recife;Rua da Moeda, 170 - Em frente ao shopping Paço Alfândega;1;5;10;-8.06465; -34.87342 
+2024;P206;Rua Imperatriz Tereza Cristina (UTEC); Boa Vista;Rua Imperatriz, 182 - na Frente a UTEC;1;5;10;-8.06291; -34.88427 
+2024;P207;Rua Matias de Albuquerque;Santo Antônio;Rua Matias de Albuquerque, 252 - de esquina com a Av. Dantas Barreto.;1;5;10;-8.06394; -34.87895 
+2024;P208;Rua Sete de Setembro;Boa Vista;Rua Sete de Setembro, 42 - próximo a Rua Imperatriz;1;5;10;-8.06277; -34.88378 
+2024;P209;Teatro Santa Izabel;Santo Antônio;Praça da República, 222 - Ao lado da Entrada do Teatro Santa Izabel;1;5;10;-8.06086; -34.87812 
+2024;P210;Travessa do Arsenal da Guerra;São José;Travessa Arsenal de Guerra, 57 - Travessa que fica por trás da Narciso;1;5;10;-8.06658; -34.87688 
+2024;P211;Av. Dantas Barreto (Armarinho Mundial);São José;Av. Dantas Barreto, 981 - Em frente a loja Armarinho e Papelaria Mundial;1;5;10;-8.06916; -34.88115 
+2024;P212;Av. Dantas Barreto (Magno Equipamentos);São José;Av. Dantas Barreto, 1153 -  em frente a loja Magno Equipamentos.;1;5;10;-8.07052; -34.88224 
+2024;P213;ETE Almirante Soares Dutra;Santo Amaro;Praça General Abreu e Lima, 74 - Em frente a Escola Técnica ETE;1;5;10;-8.04726; -34.87579 
+2024;P214;Píer dos Ciclistas ;Santo Antônio;Cais de Santa Rita, 695 - Ao lado do clube de amadores de pesca.;1;5;10;-8.07117; -34.87572 
+2024;P215;Praça Sérgio Loreto;São José;Praça Sérgio Loreto, 55 - Ao lado do prédio Esquina do Galo.;1;5;10;-8.07224; -34.88497 
+2024;P216;Praça Nelson Ferreira;Santo Amaro;Rua dos Palmares, 162 - Cruzamento com a Rua Palmares x Rua Coelho Leite.;1;5;10;-8.05298; -34.88291 
+2024;P217;Rua Duque de Caxias;Santo Antônio;Rua Duque de Caxias, 175 - Em frente a praça da Independência, ao lado da Crefaz.;1;5;10;-8.06401; -34.8765 
+2024;P218;Rua Corredor do Bispo;Boa Vista;Rua Corredor do Bispo, 185 - Em frente a ArtFast – Gráfica e Editora.;1;5;10;-8.05761; -34.887 
+2024;P219;Liceu/Nóbrega;Santo Amaro;Rua do Príncipe, 526 - Em frente a Escola Liceu/Nóbrega.;1;5;10;-8.05585; -34.88799 
+2024;P220;Rua João Fernandes Vieira;Boa Vista;Rua João Fernandes Vieira, 1 - Calçada do Edf. Vita Classic, próximo a Rua Soledade.;1;5;10;-8.05619; -34.89004 
+2024;P221;Smartlet;Santo Amaro;Av. Alfredo Lisboa, 578 – Recife;1;5;10;-8.06155; -34.87066 
+2024;P222;INSS (Rua dos Palmares);Santo Amaro;"Rua dos Palmares, 343 - na calçada, ao lado do fiteiro na entrada do INSS
+";1;5;10;-8.05254; -34.88405 
+2024;P223;Praça do Campo Santo (UTEC);Santo Amaro;Avenida da Saudade, 303 - em frente a UTEC, ao lado dos quiosques de alimentação ;1;5;10;-8.05088; -34.88297 
+2024;P224;Praça Dom Vital;São José;Praça Dom Vital  - em frente da Igreja, atrás da estátua;1;5;10;-8.06819; -34.87836 
+2024;P225;Praça Numa Pompilho;Santo Amaro;Rua Numa Pompilho - na Praça Numa Pompilho, em frente ao lote 48;1;5;10;-8.0479; -34.88305 
+2024;P226;Praça Otília;Boa Vista;Av. Gov. Agamenon Magalhães - na esquina com a Rua Monte Castelo e a Rua Montevidéu;1;5;10;-8.04957; -34.89308 
+2024;P227;Agência Caixa (Rua Dr. Leopoldo Lins);Boa Vista;Av. Gov. Agamenon Magalhães, 2997 - em frente a Caixa Econômica Federal;1;5;10;-8.04882; -34.89253 
+2024;P228;Campo do Onze;Santo Amaro;Av. Dr. Jayme da Fonte - na calçada entre as árvores;1;5;10;-8.04053; -34.87863 
+2024;P229;Casa da Cultura;Santo Antônio;Rua Floriano Peixoto - na calçada, ao lado do Quiosque do Tio Aldo;1;5;10;-8.06628; -34.88263 
+2024;P230;CEHAB;Campo Grande;Rua Odorico Mendes, 700 - na calçada, entre o portão de acesso e a Rua Nova;2;5;10;-8.03826; -34.8796 
+2024;P231;Igreja de São Gonçalo;Boa Vista;Beco São Gonçalo, S/N - na calçada, em frente a Igreja de São Gonçalo;1;5;10;-8.06456; -34.88955 
+2024;P232;Igreja de Nossa Sra do Rosário dos Pretos;Santo Antônio;R. Larga do Rosário, 97 -  em frente a Igreja Nossa Senhora do Rosário dos Pretos;1;5;10;-8.06514; -34.87786 
+2024;P233;Ministério do Trabalho e Emprego (MTE);Espinheiro;Av. Gov. Agamenon Magalhães, 2000 - próximo a entrada no MTE;3;5;10;-8.043; -34.88729 
+2024;P234;Praça Agamenon (Ilha do Joaneiro) ;Campo Grande;Av. Gov. Agamenon Magalhães, próximo a igreja Assembléia de Deus Ilha do Joaneiro;2;5;10;-8.04036; -34.88127 
+2024;P235;Quadra Kássio Rinaldo ;Santo Amaro;Av. Gov. Agamenon Magalhães, 185 pista principal - próximo a quadra Kássio Rinaldo;1;5;10;-8.04165; -34.88193 
+2024;P236;Praça Aurora ;Boa Vista;R. da Aurora, lado oposto ao lote nº1675  - na calçada, ao lado do Bike-PE;1;5;10;-8.05085; -34.87419 
+2024;P237;Quadra de Futsal da Aurora ;Santo Amaro;R. da Aurora, lado oposto ao nº 1147 - entre a quadra de futsal e a pista de skate;1;5;10;-8.05468; -34.87678 
+2024;P238;Rua da Moeda (Moedão) ;Recife;R. da Moeda - em frente ao lote nº 88;1;5;10;-8.06456; -34.87263 
+2024;P239;Rua do Bom Jesus ;Recife;Rua do Bom Jesus, 188 - na calçada, por trás da Delegacia do Rio Branco;1;5;10;-8.06233; -34.87146 
+2024;P240;Rua dos Amores ;Recife;Av. Barbosa Lima, S/N - próximo ao portal da Rua dos Amores;1;5;10;-8.06193; -34.87274 
+2024;P241;Escola Municipal Novo Mangue ;Ilha Joana Bezerra;Av. Central, 40  - na lateral da escola;1;5;10;-8.07524; -34.90351 
+2024;P242;Praça na Rua Epaminondas de Melo 01;Paissandu;R. Epaminondas de Melo, s/n - na praça, em frente ao Bradesco Prime;1;3;6;-8.06014; -34.8982 
+2024;P242;Praça na Rua Epaminondas de Melo 02;Paissandu;R. Epaminondas de Melo, s/n - na praça, em frente ao Bradesco Prime;1;2;4;-8.06014; -34.8982 
+2024;P243;Praça Cássia Kiss de Lima ;Ilha Joana Bezerra;R. Caetité, 24 - na praça, em frente ao lote 90;1;5;10;-8.07002; -34.90027 
+2024;P244;Praça Dom Bosco 01;Ilha do Leite;R. General Joaquim Inácio, S/N - na praça, em frente a Rua General Joaquim Inácio;1;3;6;-8.06315; -34.89349 
+2024;P244;Praça Dom Bosco 02;Ilha do Leite;R. General Joaquim Inácio, S/N - na praça, em frente a Rua Joaquim de Brito;1;2;4;-8.06315; -34.89349 
+2024;P245;Praça Jenner de Souza ;Derby;R. Amaro Bezerra, S/N - na praça, entre as árvores, na grama;3;5;10;-8.05484; -34.90028 
+2024;P246;Praça na Rua Ibiporã ;Ilha Joana Bezerra;R. Ibiporã, S/N - ao lado do equipamento de exercício, em frente a Rua Centenário do Sul;1;5;10;-8.07254; -34.89974 
+2024;P247;Praça na Rua Velha ;Boa Vista;R. Velha S/N - na praça, próximo ao poste de iluminação;1;5;10;-8.06453; -34.88532 
+2024;P248;Quadra da Praça Joana Bezerra ;Ilha Joana Bezerra;R. S D 9806, 75 - na praça, por trás da quadra da Praça Joana Bezerra;1;5;10;-8.06911; -34.8972 
+2024;P249;Rua Imperatriz Tereza Cristina (SECR) ;Boa Vista;R. Imperatriz Tereza Cristina, 67 - na rua, em frente ao Sindicato (SECR);1;5;10;-8.06327; -34.88305 
+2024;P250;Igreja de Nossa Senhora das Fronteiras ;Boa Vista;R. Henrique Dias, S/N - na calçada, entre as árvores;1;5;10;-8.05848; -34.89641 
+2024;P251;Rua da Palma;Santo Antônio;R. da Palma, 295 - no redesenho, em frente a loja Millena Móveis;1;3;6;-8.06557; -34.88084 
+2024;P251;Rua da Palma;Santo Antônio;R. da Palma, 205 - no redesenho, em frente a loja Ponto de Promoção;1;2;4;-8.06557; -34.88084 
+2024;P252;Cais do Sertão;Recife;Av. Alfredo Lisboa, 690 - Na parte do gramado do Cais do Sertão;1;5;10;-8.06083; -34.87033 
+2024;P253;Museu Forte do Brum;Recife;Av. Militar, 708 - Em frente ao Forte do Brum, na praça comunidade Luso Brasileira.;1;5;10;-8.05339; -34.87097 
+2024;P254;Moinho;Recife;Av. Alfredo Lisboa, 810 - Em frente ao prédio da Accenture.;1;5;10;-8.05894; -34.86983 
+2024;P255;Píer (Armazém 14);Recife;Av. Alfredo Lisboa, 135 - Píer próximo ao Armazém 14.;1;5;10;-8.06534; -34.87196 
+2024;P256;Píer (FriSabor);Recife;Av. Alfredo Lisboa, 242 - Píer próximo ao FriSabor - atrás do ponto policial;1;5;10;-8.06447; -34.87149 
+2024;P257;Seu Boteco;Recife;Av. Alfredo Lisboa, 333 - Próximo ao Marco Zero, na lateral da Entrada do Seu Boteco.;1;5;10;-8.06378; -34.8711 
+2024;P258;Smartlet;Recife;Av. Alfredo Lisboa, 578 - Ao lado do equipamento SMARTLET.;1;5;10;-8.0616; -34.87061 
+2024;P259;Forte das Cinco Pontas;São José;Praça das Cinco Pontas, S/N - na calçada, em frente a entrada do Museu;1;5;10;-8.07137; -34.88082 
+2024;P260;Rua da Carioca;Santo Antônio;R. da Carioca, 72 - no redesenho, ao lado do estacionamento de motos;1;5;10;-8.06724; -34.87689 
+2024;P261;Rua do Forte;Santo Antônio;R. do Forte, S/N - na rua, por trás da parada de ônibus;1;5;10;-8.07129; -34.8799 
+2024;P262;Catamaran ;São José;Cais Santa Rita, S/N -  no canteiro, entre as árvores;1;5;10;-8.07286; -34.88025 
+2024;P263;Praça do Derby;Boa Vista;Avenida Agamenon Magalhães, perto da Agência do  Bradesco - do lado ponto de coleta de lixo;1;5;10;-8.05642; -34.89826 
+2024;P264;Pontilhão da Paissandu;Boa Vista;Avenida Agamenon Magalhães, S/N - Em frente ao Banco Safra;1;5;10;-8.06224; -34.89748 
+2024;P265;Praça de Joana Bezerra;Ilha Joana Bezerra;Rua Jaraguari, S/N - por trás da parada de ônibus locada na Praça;1;5;10;-8.07037; -34.89652 
+2024;P266;Praça em frente a COMPESA;Cabanga;Avenida Saturino de Brito , s/n - Cabanga;1;5;10;-8.07968; -34.89281 
+2024;P267;Empório Ferreira;Santo Antônio ;Rua da Praia, 175, Santo Antônio;1;5;10;-8.06816; -34.87713 
+2024;P268;Canteiro Central da Rua Othon Paraíso;Torreão;Rua Othon Paraíso, S/N - Torreão;2;5;10;-8.0405; -34.88336 
+2024;P269;Parque de Esculturas;Brasília Teimosa;Avenida Brasília Formosa – Brasília Teimosa;6;5;10;-8.06605; -34.87011 
+2024;P270;Restaurante Ôge;Boa Vista;Travessa Correia Neto, 573 – Boa Vista;1;5;10;-8.06078; -34.88098 
+2024;P271;Liamba;Graças;Rua Fernando Lopes, S/N - Graças;3;5;10;-8.05245; -34.90302 
+2024;P272;Canteiro Central da Rua Othon Paraíso;Torreão;Rua Othon Paraíso, S/N - Torreão;2;5;10;-8.03975; -34.88346 
+2024;P273;Praça Márcio Condonga;Santo Amaro;Rua dos Palmares, 208, Santo Amaro;1;5;10;-8.04955; -34.8877 
+2024;P274;Praça Dalceu;Campo Grande;Av. Prof. José dos Anjos, nº140 - Campo Grande;2;5;10;-8.02424; -34.88168 
+2024;P275;Praça do Lindomar;Campo Grande;Rua União dos Palmares - Campo Grande;2;5;10;-8.02554; -34.87651 
+2024;P276;Praça Sargento Pincel ;Campo Grande;Rua União dos Palmares, S/N, Campo Grande ;2;5;10;-8.025; -34.87633 
+2024;P277;Praça da rotatória ;Campo Grande;Rua Prudente Morais, S/N, Campo Grande;2;5;10;-8.02842; -34.88762 
+2024;P278;Praça Ulisses Leon de Oliveira;Hipódromo ;Rua Me. Rosa Gatorno - Hipódromo;2;5;10;-8.02914; -34.88946 
+2024;P279;Praça Paulo Bernardo ;Rosarinho;Rua Regueira Costa, s/n - Rosarinho;2;5;10;-8.03233; -34.89842 
+2024;P280;Praça Canavial ;Dois Unidos ;Rua Canavial, S/N, Dois Unidos;2;5;10;-8.00087; -34.90162 
+2024;P281;USF/ Praça Alto do Capitão;Dois Unidos ;Rua Tupiraçaba, s/n – Dois Unidos;2;5;10;-7.99982; -34.91387 
+2024;P282;Escola Estadual Prof. José dos Anjos;Dois Unidos ;Av. Hildebrando de Vasconcelos, nº 2758 – Dois Unidos;2;5;10;-7.98907; -34.91666 
+2024;P283;Praça do Fundão ;Fundão ;Av. Beberibe, S/N, Fundão;2;5;10;-8.01403; -34.88946 
+2024;P284;Praça USF Irmã Terezinha;Campina de Barreto;Rua Passarela, S/N, Campina de Barreto;2;5;10;-8.02039; -34.87792 
+2024;P285;Praça André Antunes;Cajueiro ;Rua Tem. Vanderlei, S/N, Cajueiro ;2;5;10;-8.01287; -34.88304 
+2024;P286;Praça na Rua Alice Tibiriçá;Cajueiro ;Rua Alice Tibiriçá, S/N – Cajueiro ;2;5;10;-8.00985; -34.88267 
+2024;P287;Praça Amaro Albino Pimentel ;Tamarineira ;Rua Eng. Agamenon Magalhães, s/n – Tamarineira ;3;5;10;-8.03007; -34.89795 
+2024;P288;Praça Marcos Bocoiô;Tamarineira ;Rua Alfredo Osório, s/n - Tamarineira;3;5;10;-8.02925; -34.90648 
+2024;P289;Mercado da Encruzilhada ;Encruzilhada ;Rua Carlos Borromeu, S/N - Encruzilhada ;2;5;10;-8.03649; -34.89238 
+2024;P290;Largo Bomba do Hemetério;Bomba do Hemetério ;Rua Chã de Alegria, 299 – Bomba do Hemetério;2;5;10;-8.02027; -34.9033 
+2024;P291;Centro de Saúde Dr. Luiz Wilson;Bomba do Hemetério ;Rua Chã de Alegria, s/n – Bomba do Hemetério ;2;5;10;-8.021; -34.90421 
+2024;P292;Praça Sr. Bartolomeu ;Macaxeira;Rua Antônio Batista de Souza - Macaxeira;3;5;10;-8.01779; -34.93282 
+2024;P293;Canteiro Central da Avenida José Américo ;Macaxeira;Av. José Américo de Almeida - Macaxeira;3;5;10;-8.01004; -34.93122 
+2024;P294;Escola Municipal da Mangabeira;Mangabeira;Rua Nicéas Arco-Verde Gusmão, 287 – Mangabeira;3;5;10;-8.02397; -34.90072 
+2024;P295;Praça Vagner Love;Poço da Panela ;Rua Monsenhor Lôbo – Poço da Panela ;3;5;10;-8.03723; -34.92247 
+2024;P296;Praça Compositor Antônio Maria ;Santana ;Rua Nestor Silva,  s/n - Santana;3;5;10;-8.04017; -34.91384 
+2024;P297;Praça Everaldo Bidou Lambbe;Santana ;Rua Afonso de Albuquerque Melo - Santana;3;5;10;-8.03809; -34.91111 
+2024;P298;Praça Flor de Santana;Santana ;Rua Sant’anna, 1057 - Santana;3;5;10;-8.03804; -34.91793 
+2024;P299;Praça Elvira de Souza;Graças;Rua Senador Alberto Paiva, 98 - Graças;3;5;10;-8.04382; -34.90148 
+2024;P300;Praça Marcelino Champagnat;Graças;Rua Paulino Gomes de Souza, s/n - Graças;3;5;10;-8.04182; -34.90054 
+2024;P301;Mercado da Encruzilhada (Belém);Encruzilhada ;Rua Amaro Coutinho, S/N - Encruzilhada;2;5;10;-8.04182; -34.90054 
+2024;P302;Praça Otávio de Freitas;Derby;Rua Jener Souza, s/n - Derby;3;5;10;-8.05796; -34.90058 
+2024;P303;Praça Jorn. Francisco Pessoa de Queiroz;Parnamirim ;Praça Jorn. Francisco Pessoa de Queirós Jr - Parnamirim;3;5;10;-8.03702; -34.91399 
+2024;P304;Praça do Monteiro ;Parnamirim ;Avenida Dezessete de Agosto, s/n - Parnamirim;3;5;10;-8.02789; -34.92838 
+2024;P305;Quadra do Vasco ;Vasco da Gama ;Rua Catingua, s/n – Vasco da Gama;3;5;10;-8.01257; -34.92122 
+2024;P306;Praça Deputado Fabio Correa;Alto José do Pinho;Praça Deputado Fabio Correa;3;5;10;-8.02237; -34.90633 
+2024;P307;Calçada da Av. João de Barros ;Encruzilhada ;Av. João de Barros, 1858 - Encruzilhada;2;5;10;-8.03832; -34.89194 
+2024;P307;Calçada da Av. João de Barros ;Encruzilhada ;Av. João de Barros, 1858 - Encruzilhada;2;5;10;-8.03832; -34.89194 
+2024;P308;Praça Desenhista Eulino Santos;Arruda;Rua Desenhista Eulino Santos, S/N - Arruda;2;5;10;-8.02278; -34.88309 
+2024;P309;Praça Josélia;Nova Descoberta;Avenida Josélia nº 234 - Nova Descoberta;3;5;10;-8.00283; -34.92669 
+2024;P310;USF Prof. Antônio Francisco Areias;Campo Grande;Av. Prof. José dos Anjos, 506 - Campo Grande;2;5;10;-8.02185; -34.8771 
+2024;P311;Campo Campina de Barreto;Campina de Barreto;Rua Cel. Mário Libório – Campina do Barreto;2;5;10;-8.01667; -34.88142 
+2024;P312;Praça de Vinte de Julho;Campo Grande;Rua Cirilino Afonso de Melo, s/n -  Campo Grande.;2;5;10;-8.02558; -34.87912 
+2024;P313;Academia da Cidade Polo Torreão;Torreão;Av. Gov. Agamenon Magalhães - Torreão;2;5;10;-8.04122; -34.88314 
+2024;P314;Praça Castro Alves;Torreão;Av. Norte, s/n -Torreão;2;5;10;-8.03981; -34.88713 
+2024;P315;Praça Josenildo Lins;Casa Amarela ;Rua Arnoldo Magalhães, s/n - Casa Amarela;3;5;10;-8.02666; -34.90936 
+2024;P316;Secretaria Executiva de Vigilência em Saúde SEVS;Santo Amaro;Av. Visconde de Suassuna, 658 – Santo Amaro;1;5;10;-8.0515; -34.88703 
+2024;P317;Praça do Hipódromo;Hipódromo ;Rua Fonseca Oliveira, s/n - Hipódromo;2;5;10;-8.03196; -34.88647 
+2024;P318;Parque de Apipucos;Apipucos;Rua Apipucos, S/N – Apipucos;3;5;10;-8.02162; -34.93318 
+2024;P319;Praça de Apipucos ;Apipucos;Rua Apipucos, S/N – Apipucos;3;5;10;-8.02109; -34.93407 
+2024;P320;Escola Embaixador Gilberto Amado ;Hipódromo ;Rua Gáspar Regueira, SNº - Hipódromo;2;5;10;-8.03271; -34.8877 
+2024;P321;Praça Maria da Conceição de Barros ;Porto da Madeira;Avenida Aníbal Benévolo, na praça - Porto da Madeira;2;5;10;-8.0082; -34.89415 
+2024;P322;Praça Newton Vaz;Arruda;Rua Ramiz Galvão, S/N – Arruda;2;5;10;-8.02513; -34.89392 
+2024;P323;Praça Maria José dos Santos ;Água Fria ;Rua Exp Jamil Dágle, 146- Água Fria;2;5;10;-8.0342; -34.91154 
+2024;P324;Praça Dr. José Vilela 01;Parnamirim ;Avenida Dezessete de Agosto, Parnamirim;3;5;10;-8.03761; -34.91029 
+2024;P325;Praça Dr. José Vilela 02;Parnamirim ;: Avenida Dezessete de Agosto, s/n - Parnamirim;3;5;10;-8.0342; -34.91154 
+2024;P326;Quadra do Viaduto João Tude Melo ;Santana ;Rua Dr. João Santos Filho, S/N-  Santana;3;5;10;-8.03761; -34.91029 
+2024;P327;Praça Augusto Rodrigues;Torreão;Rua Augusto Rodrigues , 174  - Torreão ;2;5;10;-8.03925; -34.88512 
+2024;P328;Campo de Concentração de Treinamento de Futebol Internacional do Brasil;Vasco da Gama ;Rua Frei Martinho, s/n – Vasco da Gama ;3;5;10;-8.01031; -34.92224 
+2024;P329;Praça de Campo Grande ;Campo Grande;Estrada de Belém, s/n – Campo Grande;2;5;10;-8.03243; -34.87733 
+2024;P330;Estádio do Arruda;Arruda;Rua das Moças, s/n – Arruda;2;5;10;-8.02613; -34.89272 
+2024;P331;Praça Paulo Freire;Torre ;Rua Antônio Rabelo, s/n – Torre;4;5;10;-8.04986; -34.90499 
+2024;P332;Praça Domingos Giovanetti;Torre;Avenida Beira Rio, s/n – Torre;4;5;10;-8.04738; -34.90433 
+2024;P333;Praça José da Mota Silveira;Madalena ;Rua Arlindo Gouveia, s/n – Madalena ;4;5;10;-8.05631; -34.9038 
+2024;P334;Praça Gregório Bezerra;Torre;Rua Cantora Clara Nunes, s/n – Torre;4;5;10;-8.04478; -34.91533 
+2024;P335;Praça Batista da Silva;Torre;Rua José Bonifácio, s/n – Torre;4;5;10;-8.04247; -34.90833 
+2024;P336;Praça Dom José Pereira Alves;Cordeiro;Rua Dom José Pereira Alves, s/n – Cordeiro;4;5;10;-8.04924; -34.92534 
+2024;P337;Praça Áureo Xavier ;Cordeiro;Rua Áureo Xavier, s/n – Cordeiro;4;5;10;-8.05005; -34.92689 
+2024;P338;COMPAZ Escritor Ariano Suassuna;Cordeiro;Avenida General San Martin, 1208, s/n – Cordeiro;4;5;10;-8.05956; -34.92603 
+2024;P339;COMPAZ Escritor Ariano Suassuna;Cordeiro;Avenida General San Martin, 1208, s/n – Cordeiro;4;5;10;-8.06; -34.92605 
+2024;P340;COMPAZ Escritor Ariano Suassuna;Cordeiro;Avenida General San Martin, 1208, s/n – Cordeiro;4;5;10;-8.05994; -34.92624 
+2024;P341;Praça da Fé;Cordeiro;4º Travessa Alexandre de Gusmão, s/n – Cordeiro;4;5;10;-8.05624; -34.92732 
+2024;P342;Praça da Paz Arcebispo Dom Helder Câmara;Torrões;Rua Dr. Domingos de Abreu Vasconcelos, S/N - Torrões;4;5;10;-8.0669; -34.93337 
+2024;P343;Praça Luiz Gonzaga ;San Martin ;Rua Leila Félix Karam, S/N – San Martin;5;3;6;-8.06513; -34.93201 
+2024;P343;Praça Luiz Gonzaga ;San Martin ;Rua Leila Félix Karam, S/N – San Martin;5;2;4;-8.06513; -34.93201 
+2024;P344;Praça da Chesf;Torrões;Av. Eng. Abdias de Carvalho, S/N – Torrões;4;5;10;-8.06279; -34.93102 
+2024;P345;Praça do Berardo ;Madalena ;Rua João Crescêncio, 438 - Madalena;4;5;10;-8.05658; -34.91251 
+2024;P346;Praça Professor Coelho de Almeida;Iputinga;Rua Prof. Coelho de Almeida, S/N - Iputinga;4;5;10;-8.04539; -34.93144 
+2024;P347;Praça Cordislândia ;Iputinga;Rua Cordislândia, S/N – Iputinga;4;5;10;-8.03966; -34.93494 
+2024;P348;Praça Nova Esperança ;Iputinga;Rua Sobral, S/N - Iputinga;4;5;10;-8.03091; -34.93258 
+2024;P349;Praça Luiz de Lacerda;Iputinga;Av. Historiador Jordão Emerenciano , S/N - Iputinga;4;5;10;-8.03623; -34.94334 
+2024;P350;Escola Professor Leal de Barros;Engenho do Meio;Rua Antônio Borges Uchoa, s/n – Engenho do Meio;4;5;10;-8.05617; -34.94397 
+2024;P351;Praça Cosme Viana ;Afogados ;Rua Cosme Viana, s/n – Afogados;5;5;10;-8.06553; -34.9089 
+2024;P352;Praça Estevão Sá;Várzea;Rua Caxangá Ágape s/n – Várzea ;4;5;10;-8.03637; -34.94715 
+2024;P353;Praça do Bom Pastor;Iputinga;Praça do Bom Pastor, s/n – Iputinga;4;5;10;-8.04815; -34.94021 
+2024;P354;Ascendino Neves ;Torre;Rua Ascendino Neves, 30 – Torre;4;5;10;-8.04109; -34.90799 
+2024;P355;Praça do Rosário ;Várzea;Rua Francisco Lacerda, S/N - Várzea, ;4;5;10;-8.05062; -34.95838 
+2024;P356;Melhor Cantinho da Cidade ;Várzea;Rua Francisco Lacerda, S/N - Várzea;4;5;10;-8.05024; -34.95816 
+2024;P357;Praça Pinto Damásio ;Várzea;Av. Afonso Olindense, S/N - Várzea ;4;5;10;-8.04872; -34.95942 
+2024;P358;Praça da Várzea;Várzea;Av. Afonso Olindense, S/N – Várzea;4;5;10;-8.04886; -34.95942 
+2024;P359;Cemitério da Várzea ;Cidade Universitária ;Av. Prof. Artur de Sá, S/N - Cidade Universitária;4;5;10;-8.04632; -34.95295 
+2024;P360;Reitoria UFPE;Cidade Universitária ;Av. Prof. Moraes Rego, 1235 - Cidade Universitária;4;5;10;-8.05223; -34.9457 
+2024;P361;Restaurante Universitário (UFPE);Cidade Universitária ;Avenida Professor Paulo Freire, SN - Cidade Universitária;4;5;10;-8.05074; -34.95311 
+2024;P362;Calçada do Sport Clube do Recife ;Cidade Universitária ;Rua Benfica, s/n – Ilha do Retiro;4;5;10;-8.06189; -34.90205 
+2024;P363;Calçada do metrô de Afogados;Afogados ;Avenida Central, s/n – Afogados ;5;5;10;-8.07775; -34.90681 
+2024;P364;Mercado de Afogados;Afogados ;Rua do Acre, s/n – Afogados;5;5;10;-8.07812; -34.90567 
+2024;P365;Maternidade Professor Bandeira Filho;Afogados ;Rua Londrina, s/n – Afogados;5;5;10;-8.07908; -34.91115 
+2024;P366;Escola Municipal Professor Antônio de Brito Alves;Mustardinha;Rua Ernesto Cavalcanti, 41 – Mustardinha;5;5;10;-8.07399; -34.9179 
+2024;P367;T.I Largo da Paz;Afogados ;Avenida Sul, s/n – Afogados;5;5;10;-8.0813; -34.90484 
+2024;P368;Hospital da Mulher (Administração);Estância ;Avenida Recife, 5629 – Estância;5;5;10;-8.07214; -34.94077 
+2024;P369;Hospital da Mulher (Acesso Funcionários);Estância ;Avenida Recife, 5629 – Estância;5;5;10;-8.07099; -34.94103 
+2024;P370;Hospital da Mulher (Emergência);Estância ;Avenida Recife, 5629 – Estância;5;5;10;-8.07167; -34.94057 
+2024;P371;Praça do El Salvador;Jardim São Paulo;Rua Aguanil, S/N - Jardim São Paulo;5;5;10;-8.08056; -34.94012 
+2024;P372;Praça de San Martin (Praça da Infância);San Martin ;Avenida San Martin, S/N - San Martin;5;5;10;-8.07108; -34.92882 
+2024;P373;EREM Professora Helena Pugó;Bongi;Rua Quinze de Março, SN – Bongi;5;10;20;-8.06767; -34.93211 
+2024;P374;Praça da Cavalaria 01;San Martin ;Avenida General San Martin, s/n – Bongi;5;5;10;-8.06557; -34.92705 
+2024;P375;Praça da Cavalaria 02;San Martin ;Rua Apulcro de Assunção, s/n– Bongi;5;5;10;-8.06539; -34.92755 
+2024;P376;Estação Tejipió;Afogados ;Estrada Particular Dr. José Rufino, S/N – Afogados ;5;5;10;-8.09053; -34.95663 
+2024;P377;Escola Municipal Professora Maria da Paz Brandão Alves;Sancho;Rua da Felicidade, 51 – Sancho;5;5;10;-8.08243; -34.96149 
+2024;P378;Hospital Otávio de Freitas;Tejipió;Rua Aprígio Guimarães, S/N - Tejipió;5;5;10;-8.0869; -34.9618 
+2024;P379;Hospital Eduardo Campos da Pessoa Idosa ;Estância ;Avenida Recife, 810 – Estância;5;5;10;-8.10024; -34.92805 
+2024;P380;Praça João Stanislau;Areias;Rua Hélio Almeida, S/N - Areias;5;5;10;-8.09724; -34.93564 
+2024;P381;Campo de Areias;Areias;Rua Santa Joana D’arc, S/N – Areias;5;5;10;-8.10134; -34.93648 
+2024;P382;Praça da Lavadeira ;Areias;Rua Palmares, s/n – Areias;5;5;10;-8.0946; -34.93671 
+2024;P383;Mercado de Areias;Areias;Avenida Dr. José Rufino, 1122 – Areias;5;5;10;-8.09755; -34.93838 
+2024;P384;Praça Nossa Senhora de Lourdes;Barro ;Rua Exp Sebastião Clementino, S/N - Barro;5;5;10;-8.0955; -34.94383 
+2024;P385;Praça 4 de Outubro;Areias;Praça Fernando Galvão, 1 – Areias;5;5;10;-8.09536; -34.93898 
+2024;P386;Praça Eduardo Cardoso;Areias;Rua Cap. Gregório de Albuquerque – Areias;5;5;10;-8.09648; -34.93143 
+2024;P387;Praça São Braz ;Areias;Rua Cap. Manuel de Aguiar, S/N – Areias;5;5;10;-8.0943; -34.93167 
+2024;P388;Praça José Cecílio de Lira;Areias;Rua Cap. Jerônimo Amaral, 142 - Areias;5;5;10;-8.09416; -34.93334 
+2024;P389;Praça Manfredo Nigro;Areias;Rua Cap. Vicente Moutinho, 87 – Areias;5;5;10;-8.09342; -34.93251 
+2024;P390;Praça Jornalista Anibal Fernandes ;Areias;Rua Cap. Estevão Fernandes, S/N – Areias;5;5;10;-8.09322; -34.93012 
+2024;P391;Praça da Vitória ;Areias;Avenida Izabel de Góes, S/N – Areias;5;5;10;-8.09436; -34.93422 
+2023;P392;Estação Afogados 01;Afogados;Na entrada da estação - próximo a Rua Mercado de Afogados;5;3;6;-8.07731; -34.90643 
+2023;P393;Estação Afogados 02;Afogados;Mercado de afogados;5;2;4;-8.07771; -34.90645 
+2023;P394;Praça do Bongi 01;Bongi;Terminal do Bongi -  Rua Doná Maria Augusta Nogueira;5;2;4;-8.06377; -34.92188 
+2023;P394;Praça do Bongi 02;Bongi;Terminal do Bongi -  Rua Doná Maria Augusta Nogueira;5;3;6;-8.06377; -34.92188 
+2023;P395;Praça Jardim América ;Ipsep;Rua Itacambira 81;6;5;10;-8.06403; -34.92199 
+2023;P396;Academia da Cidade Polo Ilha do Leite;Ilha do Leite;Praça Miguel Cervantes, 35;1;5;10;-8.06659; -34.89341 
+2023;P397;Escola Municipal Engenheiro Edinaldo Miranda de Oliveira;Encruzilhada;Rua Inácio Galvão dos Santos;2;5;10;-8.03467; -34.89255 
+2023;P398;Praça dos Iburenses - Academia Recife;Cohab;Rua Rio Indaiá;6;5;10;-8.1175; -34.94701 
+2023;P399;Praça Prof. Calazans;Madalena;Praça Prof. Calazans 215;4;5;10;-8.05054; -34.91022 
+2023;P400;Praça João Pessoa de Queiroz;Torrões;Rua Dr. Aniceto Ribeiro Varejão, 273;4;5;10;-8.06736; -34.93278 
+2023;P401;Praça Dom Miguel Valverde 01;Encruzilhada;Rua Inácio Galvão dos Santos, lado oposto ao nº196;2;3;6;-8.03541; -34.89258 
+2023;P402;Praça Dom Miguel Valverde 02;Encruzilhada;Rua Inácio Galvão dos Santos, lado oposto ao nº264;2;3;6;-8.03583; -34.89248 
+2023;P403;Praça Dom Miguel Valverde 03;Encruzilhada;Rua Amaro Coutinho, na calçada da praça.;2;3;6;-8.03568; -34.89277 
+2023;P404;Praça dos Taxistas;Cohab;"Ladeira da cohab – lado oposto a Academia da cidade – Polo Praça da Vitória.
+";6;3;6;-8.11842; -34.94622 
+2023;P405;Praça Chora Menino;Paissandu;"Praça Chora Menino com a Rua Dona Benvinda – Lado Oposto a UNIMED (HUR I)
+";1;3;6;-8.06033; -34.89503 
+2023;P406;Academia da Cidade Polo Simão Borba;Estância;Rua Ernesto Nazareth, 456 – Vila Tamandaré;5;3;6;-8.09666; -34.92542 
+2023;P407;Praça do Burity;Macaxeira; Av. Norte Miguel Arraes de Alencar, 7300;3;5;10;-8.01685; -34.9293 
+2023;P408;CRAS Campina do Barreto;Campina do Barreto;Rua Cel. Mario Libório, 263-415;2;5;10;-8.0159; -34.88126 
+2023;P419;Campo do Barro ;Ilha Joana Bezerra;Av. Martin Luther King, 368;1;5;10;-8.06888; -34.8994 
+2023;P410;Simonesia;Iputinga;R. Francisco Gonçalves Ribeiro;4;3;6;-8.02898; -34.93269 
+2024;P410;Simonesia;Iputinga;R. Francisco Gonçalves Ribeiro;4;2;4;-8.02898; -34.93269 
+2023;P411;Dpt. Remo Do Sport Club Do Recife;Ilha do Retiro;Avenida Beira Rio, lado oposto ao Edf Ilha do Retiro 240;4;5;10;-8.05357; -34.9045 
+2023;P412;Praça Eça de Queiroz;Madalena;Rua Pessoa de Melo, em frente ao lote 299 ;4;5;10;-8.05065; -34.90729 
+2023;P413;Praça Maciel Pinheiro;Boa Vista;Rua Imperatriz Teresa Cristina, com esquina com a Rua do Hospício;1;5;10;-8.0626; -34.88514 
+2023;P414;Mercado de Casa Amarela 04;Casa Amarela;Na entrada principal do mercado.;3;5;10;-8.02591; -34.91775 
+2024;P415;TI CDU;Varzea;Avenida Caxangá, 4251;4;8;16;-8.03846; -34.94329 
+2023;P416;Centro de Artesanado de Pernambuco;Recife;Av. Alfredo Lisboa - Proximo a entrado do centro, perto do Marco Zero;1;7;14;-8.06272; -34.87079 
+2023;P417;TI Getulio Vargas 02;Cordeiro;Av. Getulio Vargas, proximo a entrada de Ônibus;4;10;20;-8.05028; -34.92171 
+2023;P418;Parque das Graças 01;Graças;Próximo a Rua Amélia;3;6;12;-8.0454; -34.90291 
+2023;P419;Parque das Graças 02;Graças;Próximo a Rua Osvaldo Salsa;3;5;10;-8.04956; -34.90365 
+2023;P420;Parque das Graças 03;Graças;Proximo a Rua Anibal Falcão;3;10;20;-8.04801; -34.90278 
+2023;P422;CMEI Prof. FRANCISCO do Amaral Lopes ;Santo Amaro;Avenida Gov. Agamenon Magalhães, 2351;1;5;10;-8.0449; -34.88858 
+2023;P423;Buriti ;Macaxeira;Rua Ana - Praça Cel. Othon Bezerra de Melo (Terminal de Ônibus do Alto do Buritiy) Rua ;3;5;10;-8.01025; -34.9294 
+2001;P424;Academia da Cidade Polo Chão de estrelas;Peixinhos;Avenida Prof. José dos Anjos 504 - Próximo a academia da cidade;2;5;10;-8.02031; -34.87586 
+2022;P425;Acad. da cidade – Polo Cafezópolis;Imbiribeira;Rua Des. Agenor Ferreira de Lima – Lado oposto a escola;6;5;10;-8.09982; -34.90885 
+2022;P426;Orla de Brasilia Teimosa (Buraco da Véia);Brasília Teimosa;Av. Brasilia Formosa - Buraco da Véia;6;5;10;-8.07995; -34.87659 
+2023;P427;TI Caxangá;Várzea;Avenida Caxangá - Dentro do TI caxangá, proximo a entrada dos ônibus;4;3;6;-8.03122; -34.95484 
