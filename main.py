@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import matplotlib.pyplot as plt
+from io import StringIO
+import requests
 
 
 st.set_page_config(
@@ -50,10 +52,23 @@ def carregar_titulo(mensagem):
 
 
 def carregar_dataframe():
-    # Carregar o arquivo CSV com o separador correto
-    df = pd.read_csv(
-        r'C:\Users\Ben-Hur\OneDrive\Documentos\LucianoBorbaCurso\Aula01\paraciclos.csv', sep=';')
-    return df
+    # URL do arquivo CSV no GitHub (URL bruta)
+    url = "https://raw.githubusercontent.com/benhur1920/Paraciclos/main/paraciclos.csv"
+
+    # Baixar o arquivo CSV do GitHub
+    response = requests.get(url)
+
+    # Verificar se a requisição foi bem-sucedida (status code 200)
+    if response.status_code == 200:
+        # Ler o CSV diretamente do conteúdo da resposta
+        data = StringIO(response.text)
+        # Ajuste o separador conforme necessário
+        df = pd.read_csv(data, sep=';')
+        return df
+    else:
+        st.error("Erro ao carregar o arquivo CSV. Código de status: " +
+                 str(response.status_code))
+        return None
 
 
 def calcular_total_paraciclos(df):
